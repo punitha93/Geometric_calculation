@@ -1,0 +1,16 @@
+D:\C# Practice\GeometricMeasurement\GeometricMeasurement\bin\Debug\GeometricMeasurement.exe.config
+D:\C# Practice\GeometricMeasurement\GeometricMeasurement\bin\Debug\GeometricMeasurement.exe
+D:\C# Practice\GeometricMeasurement\GeometricMeasurement\bin\Debug\GeometricMeasurement.pdb
+D:\C# Practice\GeometricMeasurement\GeometricMeasurement\obj\Debug\GeometricMeasurement.csproj.AssemblyReference.cache
+D:\C# Practice\GeometricMeasurement\GeometricMeasurement\obj\Debug\GeometricMeasurement.csproj.SuggestedBindingRedirects.cache
+D:\C# Practice\GeometricMeasurement\GeometricMeasurement\obj\Debug\GeometricMeasurement.Properties.Resources.resources
+D:\C# Practice\GeometricMeasurement\GeometricMeasurement\obj\Debug\GeometricMeasurement.csproj.GenerateResource.cache
+D:\C# Practice\GeometricMeasurement\GeometricMeasurement\obj\Debug\GeometricMeasurement.csproj.CoreCompileInputs.cache
+D:\C# Practice\GeometricMeasurement\GeometricMeasurement\obj\Debug\GeometricMeasurement.exe
+D:\C# Practice\GeometricMeasurement\GeometricMeasurement\obj\Debug\GeometricMeasurement.pdb
+D:\C# Practice\GeometricMeasurement\GeometricMeasurement\obj\Debug\GeometricMeasurement.Square.resources
+D:\C# Practice\GeometricMeasurement\GeometricMeasurement\obj\Debug\GeometricMeasurement.Circle.resources
+D:\C# Practice\GeometricMeasurement\GeometricMeasurement\obj\Debug\GeometricMeasurement.Cube.resources
+D:\C# Practice\GeometricMeasurement\GeometricMeasurement\obj\Debug\GeometricMeasurement.Rectangle.resources
+D:\C# Practice\GeometricMeasurement\GeometricMeasurement\obj\Debug\GeometricMeasurement.ShapeSelection.resources
+D:\C# Practice\GeometricMeasurement\GeometricMeasurement\obj\Debug\GeometricMeasurement.Triangle.resources
